@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisays27" alt="abhisays27" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/abhishe51444852" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/abhishe51444852?logo=twitter&style=for-the-badge" alt="https://twitter.com/abhishe51444852" /></a> </p>
-
 - 🔭 I’m currently working on **Spotify clone**
 
 - 🌱 I’m currently learning **NodeJS and ExpressJS**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Abhi%C5%9Bh%C3%A9k-N%C3%A0ut%C3%ACY%C3%A1l](https://www.quora.com/profile/Abhi%C5%9Bh%C3%A9k-N%C3%A0ut%C3%ACY%C3%A1l)
+- 📝 I regularly write articles on [https://www.quora.com/profile/Abhiśhék-NàutìYál](https://www.quora.com/profile/Abhiśhék-NàutìYál)
 
 - 📫 How to reach me **abhishek.nt94@gmail.com**
 
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisays27&show_icons=true&locale=en" alt="abhisays27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisays27&" alt="abhisays27" /></p>
+
