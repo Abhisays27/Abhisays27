@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spotify clone**
 
-- 🌱 I’m currently learning **NodeJS and ExpressJS**
+- 🌱 I’m currently learning **MongoDb**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Abhiśhék-NàutìYál](https://www.quora.com/profile/Abhiśhék-NàutìYál)
 
