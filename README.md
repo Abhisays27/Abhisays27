@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Abhishek and I'm a MERN Stack Developer</h2>
+<h1 align="center">Hi 👋! My name is Abhishek and I'm a MERN Stack Developer</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abhisays27/Abhisays27/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
 
